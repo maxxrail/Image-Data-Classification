@@ -1,4 +1,4 @@
-# Assignment 3: Classification of Image Data
+# Classification of Image Data
 
 ## Overview
 This project is designed to classify sign language gestures using a dataset formatted similarly to the classic MNIST dataset, but featuring hand sign representations for letters. It explores the efficacy of Multi-Layer Perceptron (MLP) models under various configurations and compares their performance with that of a Convolutional Neural Network (ConvNet) model.
