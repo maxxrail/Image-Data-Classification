@@ -46,3 +46,6 @@ The project includes several experiments to explore:
 ## Usage
 To execute the experiments, ensure all dependencies are installed and run the code sections sequentially. Adjust hyperparameters as necessary to explore different configurations.
 
+## Contributors
+Maxx Railton
+Hanzi Li
